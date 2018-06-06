@@ -239,6 +239,10 @@ input[type=submit] {
 	.container {
 		max-width: 720px;
 	}
+	/* nav {
+		margin: auto;
+		margin-top: 25px;
+	} */
 	.main-section {
 		width: 720px;
 		max-width: 720px;
@@ -266,13 +270,23 @@ input[type=submit] {
 		position: static;
 		margin-bottom: 0px;
 	}
+
+	/* nav {
+		align-self: auto;
+		margin-top: 25px;
+	} */
 	#main-container {
 	padding-top: 20px;
-}
+	}
 	header .container {
 		max-width: 100%;
 	}
 	.container {
+		max-width: 600px;
+	}
+
+	.main-section {
+		width: 600px;
 		max-width: 600px;
 	}
 	#logo {
